@@ -1,4 +1,4 @@
-FROM nfcore/base:1.14
+FROM nfcore/base
 LABEL authors="The nf-core/eager community" \
       description="Docker image containing all software requirements for the nf-core/eager pipeline"
 
